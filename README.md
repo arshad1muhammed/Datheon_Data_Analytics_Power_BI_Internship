@@ -51,4 +51,3 @@ An interactive, multi-page Power BI dashboard designed to evaluate sales perform
 **Author:** Arshad Muhammed
 
 Data analytics portfolio project demonstrating practical skills in Python, SQL-oriented analytical thinking, data preparation, business intelligence, and Power BI reporting.
-
